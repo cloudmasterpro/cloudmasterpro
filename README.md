@@ -33,4 +33,4 @@ Twitter
 Website
 ☁️ Let CloudMasterPro be your trusted partner in cloud computing. Together, we'll achieve great things!
 
-![](https://giphy.com/embed/7b8jdNUoFBdcoILjjv)
+![](https://media3.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e470u9jdv35ktug5r7m0ttpgvy74tvfjfwkrqqhvyl9&rid=giphy.gif&ct=g)
