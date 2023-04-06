@@ -1,6 +1,4 @@
-<p align="center">
 # 🌩️ Welcome to CloudMasterPro's GitHub! 🌩️
-</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e470u9jdv35ktug5r7m0ttpgvy74tvfjfwkrqqhvyl9&rid=giphy.gif&ct=g" alt="animated" />
