@@ -1,5 +1,11 @@
 # 🌩️ Welcome to CloudMasterPro's GitHub! 🌩️
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e470u9jdv35ktug5r7m0ttpgvy74tvfjfwkrqqhvyl9&rid=giphy.gif&ct=g" alt="animated" />
+</p>
+
+![](https://media3.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e470u9jdv35ktug5r7m0ttpgvy74tvfjfwkrqqhvyl9&rid=giphy.gif&ct=g)
+
 We are CloudMasterPro, a boutique IT company with a passionate team of cloud computing experts. We specialize in providing high-quality services for AWS, Azure, and Google Cloud platforms. Our team of architects, DevOps engineers, and IT specialists is committed to delivering top-notch solutions to help businesses and individuals achieve their goals in the cloud.
 
 🚀 About Us:
@@ -32,5 +38,3 @@ LinkedIn
 Twitter
 Website
 ☁️ Let CloudMasterPro be your trusted partner in cloud computing. Together, we'll achieve great things!
-
-![](https://media3.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif?cid=ecf05e470u9jdv35ktug5r7m0ttpgvy74tvfjfwkrqqhvyl9&rid=giphy.gif&ct=g)
